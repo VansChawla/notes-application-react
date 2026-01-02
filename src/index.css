@@ -12,3 +12,6 @@ html,body{
   width: 100%;
 }
 
+#scroll-container::-webkit-scrollbar {
+  display: none;
+}
